@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  /* Base Styles */
+  height: 500px; 
+  /* Flex Container Styles */
+}
+
+.item {
+  /* Base Styles */
+  background-color: cornflowerblue;
+  border: 5px solid #2468E5;
+  padding: 50px;
+  margin: 10px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  /* Flex Item Styles */
+}
