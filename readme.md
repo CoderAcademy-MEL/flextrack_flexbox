@@ -2,6 +2,13 @@
 
 Demo app for learning flexbox commands.
 
+## Getting setup
+
+1. Find a location for this on your computer. Make sure you are not inside another git repository. (`ls -a` and `pwd` to be sure).
+2. Copy the code link on github (green code button, then the clipboard).
+3. Clone the code on your computer, in terminal add `git clone` then paste the address from step 2.
+4. Change Directory (`cd`) into the newly created folder.
+
 ## Notes
 
 Feel free to edit this file and add your own notes.
